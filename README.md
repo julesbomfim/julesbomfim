@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jules Bomfim
 
-<!--
-**julesbomfim/julesbomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheiro da Computação | 📊 Analista de Dados  
 
-Here are some ideas to get you started:
+Sou apaixonado por **tecnologia e dados**, com foco em transformar informações em **insights estratégicos**.  
+Atuo com **SQL, Python, Tableau, Pandas e Matplotlib**, desenvolvendo dashboards interativos, análises estatísticas e soluções orientadas a dados.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL (consultas, modelagem e bancos de dados relacionais)
+- Tableau (dashboards interativos e visualização de dados)
+- Data Cleaning e Pré-processamento
+- Análise Exploratória e Estatística  
+
+## 📂 Projetos em Destaque
+- 🔗 [Dashboard de Vendas com Tableau](#)  
+- 🔗 [Análise de Dados com Python](#)  
+- 🔗 [Sistema Web em Flutter](#)  
+
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/jules-bomfim-mangueira-9ba869227](https://www.linkedin.com/in/jules-bomfim-mangueira-9ba869227/)  
+- E-mail: **julessbomfim@gmail.com**
+
+---
+✨ Sempre em busca de novos desafios em **Data & Analytics**!
