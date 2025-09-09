@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jules Bomfim
+# 👋 Olá, eu sou o Jules Bomfim Mangueira
 
 🎓 Engenheiro da Computação | 📊 Analista de Dados  
 
